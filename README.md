@@ -1,2 +1,3 @@
-# divergence_piml
-Compute divergence of distributions
+# divergence
+Compute divergence of distributions for dummy datasets.
+
